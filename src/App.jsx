@@ -4,7 +4,9 @@ import Home from "./pages/Home"
 
 import { Link, Routes, Route  } from "react-router-dom"
 import NotFound from "./pages/NotFound"
-import EventList from "./pages/EventList"
+// import EventList from "./pages/EventList"
+// import EventList from "./pages/EventListWithStateFiltering"
+import EventList from "./pages/EventListWithQueryFiltering"
 import EventDetails from "./pages/EventDetails"
 
 function App() {
@@ -36,6 +38,7 @@ function App() {
           <Route path="/about" element={ <About /> } />
           <Route path="/contact-info" element={ <Contact /> } />
           <Route path="/event-list" element={ <EventList /> } />
+
           <Route path="/event-details/:eventId" element={ <EventDetails /> }/>
 
           <Route path="*" element={ <NotFound /> }/>
