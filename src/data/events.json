@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1001",
+    "title": "Summer Music Festival",
+    "date": "2026-08-22",
+    "category": "Music",
+    "location": "Barcelona"
+  },
+  {
+    "id": "1002",
+    "title": "International Film Night",
+    "date": "2026-08-28",
+    "category": "Film",
+    "location": "Madrid"
+  },
+  {
+    "id": "1003",
+    "title": "Street Food Festival",
+    "date": "2026-09-05",
+    "category": "Food",
+    "location": "Valencia"
+  },
+  {
+    "id": "1004",
+    "title": "Contemporary Art Exhibition",
+    "date": "2026-09-12",
+    "category": "Art",
+    "location": "Girona"
+  },
+  {
+    "id": "1005",
+    "title": "Jazz in the Park",
+    "date": "2026-09-18",
+    "category": "Music",
+    "location": "Barcelona"
+  },
+  {
+    "id": "1006",
+    "title": "Autumn Food Market",
+    "date": "2026-09-26",
+    "category": "Food",
+    "location": "Seville"
+  },
+  {
+    "id": "1007",
+    "title": "European Film Festival",
+    "date": "2026-10-03",
+    "category": "Film",
+    "location": "Bilbao"
+  },
+  {
+    "id": "1008",
+    "title": "Modern Art Showcase",
+    "date": "2026-10-10",
+    "category": "Art",
+    "location": "Madrid"
+  },
+  {
+    "id": "1009",
+    "title": "Halloween Movie Night",
+    "date": "2026-10-31",
+    "category": "Film",
+    "location": "Barcelona"
+  },
+  {
+    "id": "1010",
+    "title": "Winter Food Festival",
+    "date": "2026-11-28",
+    "category": "Food",
+    "location": "Zaragoza"
+  }
+]
